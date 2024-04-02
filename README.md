@@ -23,4 +23,4 @@
 ![image](https://github.com/rafaelpalvador/Sales_Project1/assets/143773351/17f020ad-e97c-4b6f-b326-5b26666a71a9)
 
 # Foi criado também um dahsboard com todas essas informações dentro do Power Bi, que pode ser acessando
-<iframe title="grafico de vendas" width="600" height="373.5" src="https://app.powerbi.com/view?r=eyJrIjoiYzZlNmU5YzEtZWQ4Zi00NDM1LWI5NTItYWM3NDg3NGVlOWFkIiwidCI6ImQxNTU5NzU1LTBjZGQtNDU0OC1iZGZiLThhZjE3M2RkNDgyMyJ9"frameborder="0"allowFullScreen="true"></iframe>
+https://app.powerbi.com/view?r=eyJrIjoiYzZlNmU5YzEtZWQ4Zi00NDM1LWI5NTItYWM3NDg3NGVlOWFkIiwidCI6ImQxNTU5NzU1LTBjZGQtNDU0OC1iZGZiLThhZjE3M2RkNDgyMyJ9
